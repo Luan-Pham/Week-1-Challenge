@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* consolidated margin-bottom and color to within benefits class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -88,11 +88,7 @@ p {
     color:white
 }
 
-/* .benefits{
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
+/* consolidated children elements of benefits class that used same styling */
 .benefits h3{
     margin-bottom: 10px;
     text-align: center;
@@ -131,6 +127,7 @@ p {
     color: #ffffff;
 }
 
+/* consolidated elements within content class that used same styling to reduce lines of code */
 .content img {max-height: 200px;}
 
 .content h2 {margin-bottom: 20px;
