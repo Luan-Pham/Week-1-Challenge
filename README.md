@@ -6,3 +6,4 @@ The assignment was to increase the accessibility of the webpage by improving HTM
 GitHub Pages was used to deploy site.
 https://luan-pham.github.io/Week-1-Challenge/
 
+<img src="assets\images\ScreenShot.png">
